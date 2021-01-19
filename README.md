@@ -50,8 +50,8 @@ or [GitLab Key settings page](https://gitlab.com/-/profile/keys) and add your ne
 You can now interact with remote repositories with ssh without the need to authenticate each time.
 Be sure to use ssh addresses for the repos:
 
-* *https*: https://github.com/Develawpers/name-of-the-repo.git <-- NO
-* *ssh*: git@github.com:Develawpers/name-of-the-repo.git <-- YES
+* **https**: `https://github.com/Develawpers/name-of-the-repo.git` <-- NO
+* **ssh**: `git@github.com:Develawpers/name-of-the-repo.git` <-- YES
 
 ### Winzoz (coming soon)
 
