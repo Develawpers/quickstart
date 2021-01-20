@@ -434,7 +434,7 @@ def count_stuff(my_string):
 
 ### for-else
 
-You can use `else` to close a for loop. The `else` is triggered if the for loop finishes without `break`ing.
+You can use `else` to close a for loop. The `else` is triggered if the `for` loop finishes without `break`ing.
 
 ```python
 for c in ['a', 'b', 'c', 'd']:
