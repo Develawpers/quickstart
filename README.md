@@ -254,7 +254,8 @@ Shadowing can also be a matter of scope:
 def add(a, b):
     c = 2  # shadows 'c' from outer scope
     return a + b + c
-    
+
+
 if __name__ == "__main__":
     c = 10
     print(add(1, 2))
