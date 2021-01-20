@@ -160,7 +160,7 @@ Load the environment:
 
 ## Style matters
 
-Readability counts. Your coding style should be PEP-8 compliant,
+Readability counts. Your coding style should be [PEP-8](https://www.python.org/dev/peps/pep-0008/) compliant,
 unless you absolutely need to do something different, e.g. when using
 some libraries that require so.
 
